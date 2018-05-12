@@ -1,0 +1,31 @@
+_repo: Al-de-Kinderliederen_29856
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Heije, J. P. (Jan Pieter)
+    aliases:
+    - Heije, Jan Pieter
+    - Heye, Jan Pieter
+    birthdate: 1809
+    deathdate: 1876
+    gutenberg_agent_id: '34217'
+    url: http://www.gutenberg.org/2009/agents/34217
+    wikipedia: http://nl.wikipedia.org/wiki/Jan_Pieter_Heije
+description: ''
+gutenberg_issued: '2009-08-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29856'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s songs'
+- !lcc 'PZ'
+- !lcc 'PT'
+title: Al de Kinderliederen
+url: http://www.gutenberg.org/ebooks/29856
